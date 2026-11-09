@@ -56,4 +56,4 @@ Building digital products that are:
 
 ---
 
-<sub>© 2026 The Zynocta Co. All Rights Reserved.</sub>
+<sub>© 2021 The Zynocta Co. All Rights Reserved.</sub>
